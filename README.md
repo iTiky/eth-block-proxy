@@ -103,7 +103,7 @@ Testing:
     forklength = 20
 ```
 
-### EVNs override
+### ENVs override
 
 Each config (or default) value can be overridden using ENV variable.
 This might be useful running the app with Docker container and defining particular values rather than providing a full config file.
